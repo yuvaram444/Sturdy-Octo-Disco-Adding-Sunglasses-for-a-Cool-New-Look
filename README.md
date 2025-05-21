@@ -76,3 +76,14 @@ plt.subplot(122);plt.imshow(faceWithGlassesArithmetic[:,:,::-1]);plt.title("With
 ```
 ## Output : 
 
+![image](https://github.com/user-attachments/assets/105d3441-cf3b-4e8f-8d98-48c79804077d)
+
+![image](https://github.com/user-attachments/assets/ae52050c-93fa-4580-9925-20f21de96eca)
+
+![image](https://github.com/user-attachments/assets/de918ae5-1768-4c45-a09b-6a382c33bbd2)
+
+![image](https://github.com/user-attachments/assets/c49b1895-98e1-49fa-9053-a142c175c3a6)
+
+
+
+
